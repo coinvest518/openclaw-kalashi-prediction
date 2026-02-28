@@ -1,4 +1,6 @@
+
 # Kalshi BTC Agent
+<img width="1920" height="1080" alt="Grey Blue Pixel Tech Computer Presentation" src="https://github.com/user-attachments/assets/3d3c5f98-65b2-4cd9-99ba-496522a695fb" />
 
 [![GitHub Stars](https://img.shields.io/github/stars/coinvest518/openclaw-kalashi-prediction?style=social)](https://github.com/coinvest518/openclaw-kalashi-prediction/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
